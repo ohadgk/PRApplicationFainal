@@ -1,0 +1,12 @@
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_HostedService\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_HostedService\bin\Debug\ServiceDefinition.csdef
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_HostedService\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_HostedService\bin\Debug\ServiceDefinition.csdef
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_HostedService\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_HostedService\bin\Debug\ServiceDefinition.csdef
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_HostedService\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_HostedService\bin\Debug\ServiceDefinition.csdef
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_HostedService\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_HostedService\bin\Debug\ServiceDefinition.csdef
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_HostedService\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_HostedService\bin\Debug\ServiceDefinition.csdef

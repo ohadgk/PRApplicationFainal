@@ -1,0 +1,11 @@
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApllication.BL.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApllication.BL.pdb
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Dal.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Entities.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\EntityFramework.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Dal.pdb
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Entities.pdb
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\EntityFramework.xml
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApllication.BL.csprojResolveAssemblyReference.cache
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApllication.BL.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApllication.BL.pdb

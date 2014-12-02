@@ -1,0 +1,40 @@
+﻿<UserControl
+    x:Class="PRApplication.Hosting.AzureServiceReference.Controls.AddUserControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PRApplication.Hosting.AzureServiceReference.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:c="using:PRApplication.Hosting.AzureServiceReference.Converters"
+    d:DesignWidth="400" Height="350">
+
+    <UserControl.Resources>
+        <c:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+        <Style TargetType="TextBlock">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="18"/>
+        </Style>
+    </UserControl.Resources>
+    
+    <Grid Width="400" Height="350">
+        
+        <StackPanel Orientation="Vertical" Margin="50">
+            <TextBlock Text="User Name:"/>
+            <TextBox Text="{Binding UserName,Mode=TwoWay}"/>
+            <TextBlock Text="Password:"/>
+            <TextBox Text="{Binding UserPassword,Mode=TwoWay}"/>
+            <CheckBox Content="Administor" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="5" IsChecked="{Binding UserIsAdmin,Mode=TwoWay}"/>
+            <TextBlock Text="User Sucsessfuly Added." TextAlignment="Center" Visibility="{Binding UserHasBeenCreated, Converter={StaticResource BooleanToVisibilityConverter}}" Height="16" Foreground="#FF148310"/>
+            <TextBlock FontSize="16" Text="Somthing went wrong. Please try again" TextAlignment="Center" Visibility="{Binding UserHasntBeenCreated, Converter={StaticResource BooleanToVisibilityConverter}}" Height="16" Foreground="Red"/>
+            <Button Content="Add User" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="5" Command="{Binding CreateUserCommand}"/>
+        </StackPanel>
+        <Button VerticalAlignment="Top" BorderBrush="Transparent" HorizontalAlignment="Right" Command="{Binding CloseAddUserControl}" Width="30" Height="30" >
+            <Button.Background>
+                <ImageBrush ImageSource="/Assets/SmallLogo.scale-100.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+
+</UserControl>

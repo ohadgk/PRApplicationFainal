@@ -1,0 +1,413 @@
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.dll.config
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\EntityFramework.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\EntityFramework.SqlServer.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Edm.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.OData.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Newtonsoft.Json.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\PRApllication.BL.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\PRApplication.Entities.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\System.Spatial.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\PRApplication.Dal.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\MonAgentListener.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\PRApllication.BL.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\PRApplication.Entities.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\EntityFramework.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\EntityFramework.SqlServer.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Edm.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.OData.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\Newtonsoft.Json.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\System.Spatial.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\PRApplication.Dal.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\de\System.Spatial.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\es\System.Spatial.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\fr\System.Spatial.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\it\System.Spatial.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ja\System.Spatial.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ko\System.Spatial.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\ru\System.Spatial.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.dll.config
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\EntityFramework.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Edm.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.OData.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\PRApllication.BL.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\PRApplication.Entities.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\System.Spatial.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\PRApplication.Dal.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\MonAgentListener.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\PRApllication.BL.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\PRApplication.Entities.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\EntityFramework.xml
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Edm.xml
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.OData.xml
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.xml
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\System.Spatial.xml
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\PRApplication.Dal.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\de\System.Spatial.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\es\System.Spatial.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\fr\System.Spatial.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\it\System.Spatial.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ja\System.Spatial.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ko\System.Spatial.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\ru\System.Spatial.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.dll
+C:\Users\USER\Desktop\New folder\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.pdb
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.dll.config
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.pdb
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\EntityFramework.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\EntityFramework.SqlServer.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Edm.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.OData.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Newtonsoft.Json.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\PRApllication.BL.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\PRApplication.Entities.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\System.Spatial.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\PRApplication.Dal.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\MonAgentListener.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\PRApllication.BL.pdb
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\PRApplication.Entities.pdb
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\EntityFramework.xml
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\EntityFramework.SqlServer.xml
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Edm.xml
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.OData.xml
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\Newtonsoft.Json.xml
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\System.Spatial.xml
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\PRApplication.Dal.pdb
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\de\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\es\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\fr\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\it\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ja\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ko\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\ru\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.dll
+C:\Users\Tom\Desktop\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.pdb
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.dll.config
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\WCF_Azure_Service.pdb
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\EntityFramework.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Edm.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.OData.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\PRApllication.BL.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\PRApplication.Entities.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\System.Spatial.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\PRApplication.Dal.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\MonAgentListener.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\PRApllication.BL.pdb
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\PRApplication.Entities.pdb
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\EntityFramework.xml
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Edm.xml
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.OData.xml
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.xml
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\System.Spatial.xml
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\PRApplication.Dal.pdb
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\de\System.Spatial.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\es\System.Spatial.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\fr\System.Spatial.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\it\System.Spatial.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ja\System.Spatial.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ko\System.Spatial.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\ru\System.Spatial.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.dll
+C:\Users\USER\Downloads\PRApplication\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\WCF_Azure_Service.dll.config
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\WCF_Azure_Service.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\WCF_Azure_Service.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\EntityFramework.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\EntityFramework.SqlServer.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Microsoft.Data.Edm.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Microsoft.Data.OData.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Newtonsoft.Json.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\PRApllication.BL.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\PRApplication.Entities.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\System.Spatial.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\PRApplication.Dal.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\MonAgentListener.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\PRApllication.BL.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\PRApplication.Entities.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\EntityFramework.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\EntityFramework.SqlServer.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Microsoft.Data.Edm.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Microsoft.Data.OData.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\Newtonsoft.Json.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\System.Spatial.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\PRApplication.Dal.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\de\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\es\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\fr\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\it\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ja\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ko\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\ru\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\WCF_Azure_Service\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\WCF_Azure_Service.dll.config
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\WCF_Azure_Service.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\WCF_Azure_Service.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\EntityFramework.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\EntityFramework.SqlServer.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Microsoft.Data.Edm.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Microsoft.Data.OData.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Newtonsoft.Json.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\PRApllication.BL.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\PRApplication.Entities.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\System.Spatial.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\PRApplication.Dal.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\MonAgentListener.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\PRApllication.BL.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\PRApplication.Entities.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\EntityFramework.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\EntityFramework.SqlServer.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Microsoft.Data.Edm.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Microsoft.Data.OData.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\Newtonsoft.Json.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\System.Spatial.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\PRApplication.Dal.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\de\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\es\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\fr\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\it\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ja\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ko\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\ru\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\obj\Debug\WCF_Azure_Service.pdb

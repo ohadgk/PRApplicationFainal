@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.Interfaces>
+    <RootInterface FullName="Windows.UI.Xaml.Data.IValueConverter" />
+  </Roots.Interfaces>
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="CloseEventControl" />
+    <RootPropertyPathName Name="CreateEventCommand" />
+    <RootPropertyPathName Name="SelectedDate" />
+    <RootPropertyPathName Name="EventName" />
+    <RootPropertyPathName Name="CloseGuestControl" />
+    <RootPropertyPathName Name="AddNewGuestCommand" />
+    <RootPropertyPathName Name="GuestQrCode" />
+    <RootPropertyPathName Name="GuestCompanions" />
+    <RootPropertyPathName Name="GuestLastName" />
+    <RootPropertyPathName Name="GuestFirstName" />
+    <RootPropertyPathName Name="CloseAddUserControl" />
+    <RootPropertyPathName Name="CreateUserCommand" />
+    <RootPropertyPathName Name="UserHasntBeenCreated" />
+    <RootPropertyPathName Name="UserHasBeenCreated" />
+    <RootPropertyPathName Name="UserIsAdmin" />
+    <RootPropertyPathName Name="UserPassword" />
+    <RootPropertyPathName Name="UserName" />
+    <RootPropertyPathName Name="SelectedGuest" />
+    <RootPropertyPathName Name="Image" />
+    <RootPropertyPathName Name="QRCode" />
+    <RootPropertyPathName Name="Event" />
+    <RootPropertyPathName Name="StartDate" />
+    <RootPropertyPathName Name="Name" />
+    <RootPropertyPathName Name="Companions" />
+    <RootPropertyPathName Name="Atended" />
+    <RootPropertyPathName Name="LastName" />
+    <RootPropertyPathName Name="FirstName" />
+    <RootPropertyPathName Name="CloseRemoveUserControl" />
+    <RootPropertyPathName Name="RemoveUserCommand" />
+    <RootPropertyPathName Name="UserHasntBeenRemoved" />
+    <RootPropertyPathName Name="UserHasBeenRemoved" />
+    <RootPropertyPathName Name="UserNameToRemove" />
+    <RootPropertyPathName Name="ReLoginCommand" />
+    <RootPropertyPathName Name="RefreshEventCommand" />
+    <RootPropertyPathName Name="GoToAboutCommand" />
+    <RootPropertyPathName Name="GetAllUsersCommand" />
+    <RootPropertyPathName Name="RemoveUserChooseCommand" />
+    <RootPropertyPathName Name="AddUserChooseCommand" />
+    <RootPropertyPathName Name="RemoveEventCommand" />
+    <RootPropertyPathName Name="ShowRemoveEventButton" />
+    <RootPropertyPathName Name="AddEventCommand" />
+    <RootPropertyPathName Name="LoadingUsers" />
+    <RootPropertyPathName Name="IsBusyLoadingEvents" />
+    <RootPropertyPathName Name="RemoveUserChosen" />
+    <RootPropertyPathName Name="AddUserChosen" />
+    <RootPropertyPathName Name="AddEventChosen" />
+    <RootPropertyPathName Name="AllUsers" />
+    <RootPropertyPathName Name="PrEvents" />
+    <RootPropertyPathName Name="SelectedEvent" />
+    <RootPropertyPathName Name="Date" />
+    <RootPropertyPathName Name="DataContext" />
+    <RootPropertyPathName Name="OpenGuestsCommand" />
+    <RootPropertyPathName Name="SearchEventsCommand" />
+    <RootPropertyPathName Name="IsDateActive" />
+    <RootPropertyPathName Name="EventDateToSearch" />
+    <RootPropertyPathName Name="EventNameToSearch" />
+    <RootPropertyPathName Name="CloseViewCommand" />
+    <RootPropertyPathName Name="RemoveGuestCommand" />
+    <RootPropertyPathName Name="IsGuestChosen" />
+    <RootPropertyPathName Name="AddGuestCommand" />
+    <RootPropertyPathName Name="AddGuestChosen" />
+    <RootPropertyPathName Name="IsBusyLoadingGuests" />
+    <RootPropertyPathName Name="Guests" />
+    <RootPropertyPathName Name="AdminCommand" />
+    <RootPropertyPathName Name="CancelUpdateCommand" />
+    <RootPropertyPathName Name="ChangeGuestStatusCommand" />
+    <RootPropertyPathName Name="CompanionsThatArrived" />
+    <RootPropertyPathName Name="AllCompanionsArrived" />
+    <RootPropertyPathName Name="IsAttended" />
+    <RootPropertyPathName Name="SearchCommand" />
+    <RootPropertyPathName Name="GuestToSearch" />
+    <RootPropertyPathName Name="EventDate" />
+    <RootPropertyPathName Name="IsErrorMassegeShown" />
+    <RootPropertyPathName Name="LoginCommand" />
+    <RootPropertyPathName Name="Password" />
+    <RootPropertyPathName Name="RefreshCommand" />
+    <RootPropertyPathName Name="LoginAsAdminCommand" />
+    <RootPropertyPathName Name="NoEventsMassegeOn" />
+    <RootPropertyPathName Name="WelcomeEvents" />
+    <RootPropertyPathName Name="EventChooseCommand" />
+    <RootPropertyPathName Name="Id" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application">
+      <RootProperty Name="Resources" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.SolidColorBrush">
+      <RootProperty Name="Color" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="TextAlignment" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="IsTapEnabled" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ListBox">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="SelectedItem" />
+      <RootProperty Name="ItemTemplate" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Control">
+      <RootProperty Name="Background" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="BorderBrush" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ListBoxItem" />
+    <RootType FullName="Windows.UI.Xaml.Setter">
+      <RootProperty Name="Property" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.ImageBrush">
+      <RootProperty Name="ImageSource" />
+      <RootProperty Name="Stretch" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.UserControl">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="ColumnDefinitions" />
+      <RootProperty Name="RowDefinitions" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Background" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+      <RootMethod Name="GetRow" />
+      <RootMethod Name="SetRow" />
+      <RootMethod Name="GetRowSpan" />
+      <RootMethod Name="SetRowSpan" />
+      <RootMethod Name="GetColumnSpan" />
+      <RootMethod Name="SetColumnSpan" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="MinWidth" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Content" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="CommandParameter" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="Mode" />
+      <RootProperty Name="Converter" />
+      <RootProperty Name="ElementName" />
+      <RootProperty Name="Path" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="Text" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Name" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.DatePicker">
+      <RootProperty Name="Header" />
+      <RootProperty Name="Date" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="MonthFormat" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="IsEnabled" />
+      <RootProperty Name="FontWeight" />
+    </RootType>
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Controls.AddEventControl" />
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Controls.AddGuestControl" />
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Converters.BooleanToVisibilityConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.CheckBox">
+      <RootProperty Name="Content" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="IsChecked" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Controls.AddUserControl" />
+    <RootType FullName="Windows.UI.Xaml.FrameworkElement">
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Converters.ByteArrayToImageConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Source" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Controls.GuestDetailscontrol">
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Controls.RemoveUserControl" />
+    <RootType FullName="Cirrious.MvvmCross.WindowsCommon.Views.MvxWindowsPage">
+      <RootProperty Name="Name" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="BottomAppBar" />
+      <RootProperty Name="TopAppBar" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="SizeChanged" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBar">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.AppBarButton">
+      <RootProperty Name="Icon" />
+      <RootProperty Name="Label" />
+      <RootProperty Name="Command" />
+      <RootProperty Name="Visibility" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.RowDefinition">
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressRing">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="IsActive" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.DataTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactivity.Interaction">
+      <RootMethod Name="GetBehaviors" />
+      <RootMethod Name="SetBehaviors" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.EventTriggerBehavior">
+      <RootProperty Name="EventName" />
+      <RootProperty Name="Actions" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Interactions.Core.InvokeCommandAction">
+      <RootProperty Name="Command" />
+      <RootProperty Name="CommandParameter" />
+    </RootType>
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Views.EventsView" />
+    <RootType FullName="Windows.UI.Xaml.VisualStateManager">
+      <RootMethod Name="GetVisualStateGroups" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualStateGroup">
+      <RootProperty Name="States" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualState">
+      <RootProperty Name="Storyboard" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.Storyboard">
+      <RootProperty Name="Children" />
+      <RootMethod Name="GetTargetProperty" />
+      <RootMethod Name="SetTargetProperty" />
+      <RootMethod Name="GetTargetName" />
+      <RootMethod Name="SetTargetName" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.ObjectAnimationUsingKeyFrames">
+      <RootProperty Name="KeyFrames" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Media.Animation.DiscreteObjectKeyFrame">
+      <RootProperty Name="KeyTime" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VerticalAlignment" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ProgressBar">
+      <RootProperty Name="IsIndeterminate" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Views.GuestDetailsView" />
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ItemsControl">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Visibility" />
+      <RootProperty Name="Items" />
+    </RootType>
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Views.HostView" />
+    <RootType FullName="Windows.UI.Xaml.Controls.PasswordBox">
+      <RootProperty Name="Password" />
+    </RootType>
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Views.LoginView" />
+    <RootType FullName="PRApplication.Hosting.AzureServiceReference.Views.WelcomView" />
+  </Roots.RootTypes>
+</Roots>

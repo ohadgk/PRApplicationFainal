@@ -1,0 +1,546 @@
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.i.cs
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.cs
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MainPage.g.i.cs
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MainPage.g.cs
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xaml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xbf
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\ApplicationInsights.config
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\App.xbf
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\MainPage.xbf
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.xr.xml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\resources.pri
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\AppxManifest.xml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.build.appxrecipe
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.winmd
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.winmd
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.winmd
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.xml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MainPage.xaml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MainPage.xbf
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\ApplicationInsights.config
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\ProjectArchitectures.txt
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\ApplicationInsights.config
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\App.xbf
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\MainPage.xbf
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.xr.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\resources.pri
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\AppxManifest.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.build.appxrecipe
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.winmd
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.winmd
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.winmd
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.RuntimeTelemetry.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.i.cs
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.cs
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MainPage.g.i.cs
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MainPage.g.cs
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xaml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MainPage.xaml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xbf
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MainPage.xbf
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\ApplicationInsights.config
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml.intermediate
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles.intermediate
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles.intermediate
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles.intermediate
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\ProjectArchitectures.txt
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\App.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.xr.xml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\resources.pri
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\AppxManifest.xml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.build.appxrecipe
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.i.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xaml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlSaveStateFile.xml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml.intermediate
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles.intermediate
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles.intermediate
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles.intermediate
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt.intermediate
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\ProjectArchitectures.txt
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.CrossCore.WindowsCommon.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.WindowsCommon.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.g.i.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.g.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.g.i.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.g.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.xaml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\GuestDetailscontrol.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\GuestDetailsView.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.xaml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\EventsView.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.g.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.xaml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddEventControl.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.g.i.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.g.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.xaml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddGuestControl.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.g.i.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.g.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.xaml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\UsersView.xbf
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\UsersView.g.i.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\UsersView.g.cs
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\UsersView.xaml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\UsersView.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\App.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddEventControl.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddGuestControl.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddUserControl.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\GuestDetailscontrol.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\RemoveUserControl.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\EventsView.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\GuestDetailsView.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\HostView.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\LoginView.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\WelcomView.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.xr.xml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\resources.pri
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\AppxManifest.xml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.build.appxrecipe
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.CrossCore.WindowsCommon.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.WindowsCommon.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.winmd
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.pdb
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.xml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.pri
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.i.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.g.i.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.g.i.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.g.i.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.g.i.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xaml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.xaml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.xaml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.xaml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.xaml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.xaml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.xaml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.xaml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.xaml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.xaml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.xaml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.xbf
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml.intermediate
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles.intermediate
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles.intermediate
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles.intermediate
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\ZXing.pri.xml
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\ProjectArchitectures.txt
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\App.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddEventControl.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddGuestControl.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddUserControl.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\GuestDetailscontrol.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\RemoveUserControl.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\EventsView.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\GuestDetailsView.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\HostView.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\LoginView.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\WelcomView.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.xr.xml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\resources.pri
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\AppxManifest.xml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.build.appxrecipe
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.CrossCore.WindowsCommon.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.WindowsCommon.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.winmd
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.pdb
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.xml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.pri
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.i.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.g.i.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.g.i.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.g.i.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.g.i.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.g.i.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.g.i.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.g.i.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.g.i.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xaml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.xaml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.xaml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.xaml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.xaml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.xaml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.xaml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.xaml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.xaml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.xaml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.xaml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.xbf
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlSaveStateFile.xml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml.intermediate
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles.intermediate
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles.intermediate
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles.intermediate
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt.intermediate
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\ZXing.pri.xml
+C:\Users\USER\Downloads\PRApplication\PRApplication.Hosting.AzureServiceReference\obj\Debug\ProjectArchitectures.txt
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\App.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddEventControl.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddGuestControl.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddUserControl.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\GuestDetailscontrol.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\RemoveUserControl.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\EventsView.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\GuestDetailsView.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\HostView.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\LoginView.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\WelcomView.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.xr.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\resources.pri
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\AppxManifest.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.build.appxrecipe
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.CrossCore.WindowsCommon.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.WindowsCommon.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.winmd
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.pri
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xaml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.xaml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.xaml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.xaml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.xaml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.xaml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.xaml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.xaml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.xaml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.xaml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.xaml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.xbf
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml.intermediate
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles.intermediate
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles.intermediate
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles.intermediate
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\ZXing.pri.xml
+C:\Users\Tom\Desktop\PRApplicationShalev\PRApplication.Hosting.AzureServiceReference\obj\Debug\ProjectArchitectures.txt
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\App.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddEventControl.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddGuestControl.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddUserControl.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\GuestDetailscontrol.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\RemoveUserControl.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\EventsView.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\GuestDetailsView.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\HostView.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\LoginView.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\WelcomView.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\resources.pri
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\AppxManifest.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.build.appxrecipe
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.CrossCore.WindowsCommon.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Cirrious.MvvmCross.WindowsCommon.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.winmd
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\ZXing.pri
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.g.i.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xaml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.xaml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.xaml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.xaml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.xaml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.xaml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.xaml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.xaml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.xaml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.xaml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.xaml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\App.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddEventControl.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddGuestControl.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\AddUserControl.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\GuestDetailscontrol.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Controls\RemoveUserControl.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\EventsView.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\GuestDetailsView.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\HostView.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\LoginView.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\Views\WelcomView.xbf
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\priconfig.xml.intermediate
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\layout.resfiles.intermediate
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\resources.resfiles.intermediate
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\pri.resfiles.intermediate
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\ZXing.pri.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\ProjectArchitectures.txt
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.xr.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.exe
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\PRApplication.Hosting.AzureServiceReference.pdb

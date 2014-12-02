@@ -1,0 +1,1 @@
+bin\WCF_Azure_Service.dll

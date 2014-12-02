@@ -1,0 +1,16 @@
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\obj\Debug\PrApplicatin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\PrApplicatin.Tests.dll.config
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\PrApplicatin.Tests.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\PrApplicatin.Tests.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\PRApllication.BL.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\PRApplication.Dal.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\PRApplication.Entities.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\PRApllication.BL.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\PRApplication.Dal.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\PRApplication.Entities.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\obj\Debug\PrApplicatin.Tests.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplicatin.Tests\obj\Debug\PrApplicatin.Tests.pdb

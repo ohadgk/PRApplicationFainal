@@ -1,0 +1,12 @@
+C:\Users\Tom\Desktop\PRApplication\AzureDataBaseUpdater\bin\Debug\AzureDataBaseUpdater.exe.config
+C:\Users\Tom\Desktop\PRApplication\AzureDataBaseUpdater\bin\Debug\AzureDataBaseUpdater.exe
+C:\Users\Tom\Desktop\PRApplication\AzureDataBaseUpdater\bin\Debug\AzureDataBaseUpdater.pdb
+C:\Users\Tom\Desktop\PRApplication\AzureDataBaseUpdater\obj\Debug\AzureDataBaseUpdater.exe
+C:\Users\Tom\Desktop\PRApplication\AzureDataBaseUpdater\obj\Debug\AzureDataBaseUpdater.pdb
+C:\Users\Tom\Desktop\PRApplication\AzureDataBaseUpdater\obj\Debug\AzureDataBaseUpdater.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\PRApplication\AzureDataBaseUpdater\bin\Debug\AzureDataBaseUpdater.exe.config
+C:\Users\USER\Downloads\PRApplication\AzureDataBaseUpdater\bin\Debug\AzureDataBaseUpdater.exe
+C:\Users\USER\Downloads\PRApplication\AzureDataBaseUpdater\bin\Debug\AzureDataBaseUpdater.pdb
+C:\Users\USER\Downloads\PRApplication\AzureDataBaseUpdater\obj\Debug\AzureDataBaseUpdater.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\PRApplication\AzureDataBaseUpdater\obj\Debug\AzureDataBaseUpdater.exe
+C:\Users\USER\Downloads\PRApplication\AzureDataBaseUpdater\obj\Debug\AzureDataBaseUpdater.pdb

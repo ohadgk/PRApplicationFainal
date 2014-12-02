@@ -1,0 +1,2 @@
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\PrApplication.Clients.Windows8.Core.csproj;neutral
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\PRApplication.Hosting.AzureServiceReference.csproj;neutral

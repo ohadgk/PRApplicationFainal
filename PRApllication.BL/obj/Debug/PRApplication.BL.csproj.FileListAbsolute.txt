@@ -1,0 +1,114 @@
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApllication.BL.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApllication.BL.pdb
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Dal.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\EntityFramework.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Dal.pdb
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\EntityFramework.xml
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApplication.BL.csprojResolveAssemblyReference.cache
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApllication.BL.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApllication.BL.pdb
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Entities2.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Entities2.pdb
+C:\Users\USER\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApllication.BL.dll
+C:\Users\USER\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApllication.BL.pdb
+C:\Users\USER\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Dal.dll
+C:\Users\USER\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Entities2.dll
+C:\Users\USER\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Dal.pdb
+C:\Users\USER\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Entities2.pdb
+C:\Users\USER\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApplication.BL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApllication.BL.dll
+C:\Users\USER\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApllication.BL.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApplication.BL.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApllication.BL.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApllication.BL.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApllication.BL.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Dal.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Entities2.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\EntityFramework.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Dal.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\PRApplication.Entities2.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\EntityFramework.xml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\obj\Debug\PRApllication.BL.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PRApllication.BL\bin\Debug\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\obj\Debug\PRApplication.BL.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\obj\Debug\PRApllication.BL.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\obj\Debug\PRApllication.BL.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApllication.BL.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApllication.BL.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\bin\Debug\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Dal.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Entities.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Dal.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Entities.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApllication.BL.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApllication.BL.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\bin\Debug\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Dal.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Entities.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Dal.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Entities.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\obj\Debug\PRApplication.BL.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\obj\Debug\PRApllication.BL.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\obj\Debug\PRApllication.BL.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.xml
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\bin\Debug\PRApllication.BL.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\bin\Debug\PRApllication.BL.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Dal.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Entities.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Dal.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Entities.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\obj\Debug\PRApplication.BL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\obj\Debug\PRApllication.BL.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApllication.BL\obj\Debug\PRApllication.BL.pdb
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\bin\Debug\PRApllication.BL.dll
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\bin\Debug\PRApllication.BL.pdb
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Dal.dll
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Entities.dll
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.dll
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Dal.pdb
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Entities.pdb
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.xml
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\obj\Debug\PRApplication.BL.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\obj\Debug\PRApllication.BL.dll
+C:\Users\Tom\Desktop\PRApplication\PRApllication.BL\obj\Debug\PRApllication.BL.pdb
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\bin\Debug\PRApllication.BL.dll
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\bin\Debug\PRApllication.BL.pdb
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Dal.dll
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Entities.dll
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.dll
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Dal.pdb
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\bin\Debug\PRApplication.Entities.pdb
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.xml
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\obj\Debug\PRApplication.BL.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\obj\Debug\PRApllication.BL.dll
+C:\Users\USER\Downloads\PRApplication\PRApllication.BL\obj\Debug\PRApllication.BL.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\bin\Debug\PRApllication.BL.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\bin\Debug\PRApllication.BL.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\bin\Debug\PRApplication.Dal.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\bin\Debug\PRApplication.Entities.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\bin\Debug\EntityFramework.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\bin\Debug\PRApplication.Dal.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\bin\Debug\PRApplication.Entities.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\bin\Debug\EntityFramework.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\obj\Debug\PRApplication.BL.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\obj\Debug\PRApllication.BL.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\obj\Debug\PRApllication.BL.pdb

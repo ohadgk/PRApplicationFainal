@@ -1,0 +1,92 @@
+﻿<views:MvxWindowsPage
+    x:Class="PRApplication.Hosting.AzureServiceReference.Views.GuestDetailsView"
+    xmlns:controls="using:PRApplication.Hosting.AzureServiceReference.Controls"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PRApplication.Hosting.AzureServiceReference.Views"
+    xmlns:c="using:PRApplication.Hosting.AzureServiceReference.Converters"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:views="using:Cirrious.MvvmCross.WindowsCommon.Views"
+    mc:Ignorable="d" SizeChanged="MvxWindowsPage_SizeChanged">
+
+    <Page.Resources>
+        <c:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    </Page.Resources>
+
+    <Page.BottomAppBar>
+        <AppBar>
+            <AppBar.Background>
+                <ImageBrush ImageSource="/Assets/LoginBot.png" Stretch="Uniform"/>
+            </AppBar.Background>
+            <StackPanel Orientation="Horizontal">
+                <AppBarButton Icon="Back" Label="Back"  Command="{Binding CloseViewCommand}"/>
+            </StackPanel>
+        </AppBar>
+    </Page.BottomAppBar>
+    
+    <Page.TopAppBar>
+        <AppBar>
+            <AppBar.Background>
+                <ImageBrush ImageSource="/Assets/LoginTop.png" Stretch="Uniform"/>
+            </AppBar.Background>
+            <StackPanel Orientation="Horizontal" Height="85" >
+                <AppBarButton Icon="Add" Label="Add Guest" Command="{Binding AddGuestCommand}"/>
+                <AppBarButton Icon="Remove" Label="Remove Guest" Command="{Binding RemoveGuestCommand}" Visibility="{Binding IsGuestChosen,Converter={StaticResource BooleanToVisibilityConverter}}"/>
+
+            </StackPanel>
+        </AppBar>
+    </Page.TopAppBar>
+    
+    <Grid>
+    	<VisualStateManager.VisualStateGroups>
+    		<VisualStateGroup x:Name="VisualStateGroup">
+    			<VisualState x:Name="PcState"/>
+    			<VisualState x:Name="TabletState">
+    				<Storyboard>
+    					<ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.VerticalAlignment)" Storyboard.TargetName="grid">
+    						<DiscreteObjectKeyFrame KeyTime="0">
+    							<DiscreteObjectKeyFrame.Value>
+    								<VerticalAlignment>Center</VerticalAlignment>
+    							</DiscreteObjectKeyFrame.Value>
+    						</DiscreteObjectKeyFrame>
+    					</ObjectAnimationUsingKeyFrames>
+    				</Storyboard>
+    			</VisualState>
+    		</VisualStateGroup>
+    	</VisualStateManager.VisualStateGroups>
+        <Grid>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="273*"/>
+                <ColumnDefinition Width="506*"/>
+                <ColumnDefinition Width="587*"/>
+            </Grid.ColumnDefinitions>
+
+            <ListBox Margin="0,50" Background="Transparent" Grid.Column="0" ItemsSource="{Binding Guests}" SelectedItem="{Binding SelectedGuest,Mode=TwoWay}">
+
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock TextWrapping="Wrap" Margin="5" Text="{Binding}" Foreground="White"></TextBlock>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+
+            <Grid Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,50,0,0"
+              Visibility="{Binding IsGuestChosen, Converter={StaticResource BooleanToVisibilityConverter}}">
+                <controls:GuestDetailscontrol Width="800" />
+            </Grid>
+
+            <ProgressBar IsIndeterminate="True" Grid.Column="0" Margin="0,381" 
+                     Visibility="{Binding IsBusyLoadingGuests, Converter={StaticResource BooleanToVisibilityConverter}}"/>
+            
+            <Grid x:Name="grid" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="50,0,0,-10"
+              Visibility="{Binding AddGuestChosen, Converter={StaticResource BooleanToVisibilityConverter}}">
+                <controls:AddGuestControl/>
+            </Grid>
+        </Grid>
+    </Grid>
+    
+
+</views:MvxWindowsPage>
+

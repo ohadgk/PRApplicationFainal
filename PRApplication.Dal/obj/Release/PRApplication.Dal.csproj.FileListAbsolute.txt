@@ -1,0 +1,12 @@
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\bin\Release\PRApplication.Dal.dll.config
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\bin\Release\PRApplication.Dal.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\bin\Release\PRApplication.Dal.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\bin\Release\EntityFramework.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\bin\Release\PRApplication.Entities2.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\bin\Release\PRApplication.Entities2.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\bin\Release\EntityFramework.xml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\obj\Release\PRApplication.Dal.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\obj\Release\PRApplication.Dal.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Dal\PRApplication.Dal\obj\Release\PRApplication.Dal.pdb

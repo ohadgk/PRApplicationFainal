@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3429d320-8854-4756-9496-2e6501e3eb41" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.ObjectModel.ObservableCollection`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>false</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://prservice.cloudapp.net/PrService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="PrService.xsd" MetadataType="Schema" ID="d8361f50-4d88-43e8-a8c0-14de94e5f19f" SourceId="1" SourceUrl="http://prservice.cloudapp.net/PrService.svc?xsd=xsd0" />
+    <MetadataFile FileName="PrService1.xsd" MetadataType="Schema" ID="84f1b3bc-482d-43c6-bc8e-e129467c4d59" SourceId="1" SourceUrl="http://prservice.cloudapp.net/PrService.svc?xsd=xsd1" />
+    <MetadataFile FileName="PrService.wsdl" MetadataType="Wsdl" ID="6776738d-5c7a-465c-982d-e5aaa8cdf1af" SourceId="1" SourceUrl="http://prservice.cloudapp.net/PrService.svc?wsdl" />
+    <MetadataFile FileName="PrService2.xsd" MetadataType="Schema" ID="630e6694-138e-4a78-9e1e-b35764760a54" SourceId="1" SourceUrl="http://prservice.cloudapp.net/PrService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

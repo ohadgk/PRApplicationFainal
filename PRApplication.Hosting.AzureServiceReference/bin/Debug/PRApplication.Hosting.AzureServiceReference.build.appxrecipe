@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MUFFASA</Machine>
+    <WindowsUser>Tom</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c97ba343-4966-4675-b776-dd376f97af03</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.exe">
+      <PackagePath>PRApplication.Hosting.AzureServiceReference.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\packages\MvvmCross.HotTuna.CrossCore.3.2.2\lib\win81\Cirrious.CrossCore.dll">
+      <PackagePath>Cirrious.CrossCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\packages\MvvmCross.HotTuna.CrossCore.3.2.2\lib\win81\Cirrious.CrossCore.WindowsCommon.dll">
+      <PackagePath>Cirrious.CrossCore.WindowsCommon.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.2.2-beta1\lib\win81\Cirrious.MvvmCross.dll">
+      <PackagePath>Cirrious.MvvmCross.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\packages\MvvmCross.HotTuna.CrossCore.3.2.2\lib\win81\Cirrious.MvvmCross.Localization.dll">
+      <PackagePath>Cirrious.MvvmCross.Localization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\packages\MvvmCross.HotTuna.Plugin.Messenger.3.2.2\lib\win81\Cirrious.MvvmCross.Plugins.Messenger.dll">
+      <PackagePath>Cirrious.MvvmCross.Plugins.Messenger.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.2.2-beta1\lib\win81\Cirrious.MvvmCross.WindowsCommon.dll">
+      <PackagePath>Cirrious.MvvmCross.WindowsCommon.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApllication.BL\bin\Debug\OnBarcode.Barcode.BarcodeScanner.dll">
+      <PackagePath>OnBarcode.Barcode.BarcodeScanner.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.dll">
+      <PackagePath>PrApplication.Clients.Windows8.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\packages\WriteableBitmapEx.1.0.14.0\lib\NetCore45\WriteableBitmapEx.WinRT.dll">
+      <PackagePath>WriteableBitmapEx.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\packages\ZXing.Net.0.14.0.1\lib\windows8\ZXing.winmd">
+      <PackagePath>ZXing.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\Background.png">
+      <PackagePath>Assets\Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\EventBG.png">
+      <PackagePath>Assets\EventBG.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\EventTrans.png">
+      <PackagePath>Assets\EventTrans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\GuestBG.png">
+      <PackagePath>Assets\GuestBG.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\GuestTrans.png">
+      <PackagePath>Assets\GuestTrans.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\LoginBot.png">
+      <PackagePath>Assets\LoginBot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\LoginTop.png">
+      <PackagePath>Assets\LoginTop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\BackgroundLoginProt.jpg">
+      <PackagePath>Assets\BackgroundLoginProt.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\Assets\image1.jpg">
+      <PackagePath>Assets\image1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\ToDo-MvvmCross\_ Windows Store UI.txt">
+      <PackagePath>ToDo-MvvmCross\_ Windows Store UI.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\ToDo-MvvmCross\_ Core.txt">
+      <PackagePath>PrApplication.Clients.Windows8.Core\ToDo-MvvmCross\_ Core.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddEventControl.xbf">
+      <PackagePath>Controls\AddEventControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddGuestControl.xbf">
+      <PackagePath>Controls\AddGuestControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\AddUserControl.xbf">
+      <PackagePath>Controls\AddUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\GuestDetailscontrol.xbf">
+      <PackagePath>Controls\GuestDetailscontrol.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Controls\RemoveUserControl.xbf">
+      <PackagePath>Controls\RemoveUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\EventsView.xbf">
+      <PackagePath>Views\EventsView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\GuestDetailsView.xbf">
+      <PackagePath>Views\GuestDetailsView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\HostView.xbf">
+      <PackagePath>Views\HostView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\LoginView.xbf">
+      <PackagePath>Views\LoginView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\Views\WelcomView.xbf">
+      <PackagePath>Views\WelcomView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\PRApplication.Hosting.AzureServiceReference.xr.xml">
+      <PackagePath>PRApplication.Hosting.AzureServiceReference.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Hosting.AzureServiceReference\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

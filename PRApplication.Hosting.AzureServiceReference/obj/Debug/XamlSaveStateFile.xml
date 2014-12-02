@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\user\downloads\prapplication\prapplication.hosting.azureservicereference\obj\debug\intermediatexaml\prapplication.hosting.azureservicereference.exe" HashGuid="0ae72c9d-297f-208c-0740-685ddcb696c6" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\users\tom\desktop\prapplicationfainal\packages\mvvmcross.hottuna.crosscore.3.2.2\lib\win81\cirrious.crosscore.dll" HashGuid="9af10fd6-4b4f-2165-00ce-d3c7265c853f" />
+    <ReferenceAssembly PathName="c:\users\tom\desktop\prapplicationfainal\packages\mvvmcross.hottuna.crosscore.3.2.2\lib\win81\cirrious.crosscore.windowscommon.dll" HashGuid="33137c4e-381b-0828-9fcf-2ac3014e11f4" />
+    <ReferenceAssembly PathName="c:\users\tom\desktop\prapplicationfainal\packages\mvvmcross.hottuna.mvvmcrosslibraries.3.2.2-beta1\lib\win81\cirrious.mvvmcross.dll" HashGuid="381ef74d-4332-b1e8-431a-0ba472c44c65" />
+    <ReferenceAssembly PathName="c:\users\tom\desktop\prapplicationfainal\packages\mvvmcross.hottuna.crosscore.3.2.2\lib\win81\cirrious.mvvmcross.localization.dll" HashGuid="cc169ebc-6f40-271e-a9fe-e2fe4b3425db" />
+    <ReferenceAssembly PathName="c:\users\tom\desktop\prapplicationfainal\packages\mvvmcross.hottuna.plugin.messenger.3.2.2\lib\win81\cirrious.mvvmcross.plugins.messenger.dll" HashGuid="b95faa80-11cb-a9f9-847e-342ac7012d8e" />
+    <ReferenceAssembly PathName="c:\users\tom\desktop\prapplicationfainal\packages\mvvmcross.hottuna.mvvmcrosslibraries.3.2.2-beta1\lib\win81\cirrious.mvvmcross.windowscommon.dll" HashGuid="ed90b092-b6cf-076c-8f4e-30ddf605375d" />
+    <ReferenceAssembly PathName="c:\users\tom\desktop\prapplicationfainal\prapllication.bl\bin\debug\onbarcode.barcode.barcodescanner.dll" HashGuid="342f375d-1c1c-8cad-2724-278a7635a3dd" />
+    <ReferenceAssembly PathName="c:\users\tom\desktop\prapplicationfainal\prapplication.clients.windows8.core\bin\debug\prapplication.clients.windows8.core.dll" HashGuid="3f28ebd3-d129-745b-2673-717756a045c7" />
+    <ReferenceAssembly PathName="c:\users\tom\desktop\prapplicationfainal\packages\writeablebitmapex.1.0.14.0\lib\netcore45\writeablebitmapex.winrt.dll" HashGuid="dee9d8f6-a9af-adc9-9daa-4c3d1a5d9570" />
+    <ReferenceAssembly PathName="c:\users\tom\desktop\prapplicationfainal\packages\zxing.net.0.14.0.1\lib\windows8\zxing.winmd" HashGuid="a78fc7f8-dd46-b4f1-5011-27b2896bf3e2" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

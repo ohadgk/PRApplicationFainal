@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="PrService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://prservice.cloudapp.net/PrService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://prservice.cloudapp.net/PrService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://prservice.cloudapp.net/PrService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WCF_Azure_Service" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IPrService_GetGuestsByEventIdAndGuestName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetGuestsByEventIdAndGuestName" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetGuestsByEventIdAndGuestName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetGuestsByEventIdAndGuestNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_EncryptPass_InputMessage">
+    <wsdl:part name="parameters" element="tns:EncryptPass" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_EncryptPass_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EncryptPassResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetSpecificGuest_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSpecificGuest" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetSpecificGuest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSpecificGuestResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_ChangeGuestStatus_InputMessage">
+    <wsdl:part name="parameters" element="tns:ChangeGuestStatus" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_ChangeGuestStatus_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ChangeGuestStatusResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetEventByID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEventByID" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetEventByID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEventByIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetEvent_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEvent" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetEvent_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEventResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_RemoveEvent_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveEvent" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_RemoveEvent_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveEventResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetEvents_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEvents" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetEvents_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEventsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetEventsByEventName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEventsByEventName" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetEventsByEventName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEventsByEventNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetEventsByEventDate_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEventsByEventDate" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetEventsByEventDate_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEventsByEventDateResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_CreateEvent_InputMessage">
+    <wsdl:part name="parameters" element="tns:CreateEvent" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_CreateEvent_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CreateEventResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_AddGuest_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddGuest" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_AddGuest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddGuestResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_RemoveGuest_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveGuest" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_RemoveGuest_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveGuestResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetUsers_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUsers" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetUsers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUsersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetUserById_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUserById" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_GetUserById_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetUserByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_AddUser_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddUser" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_AddUser_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_RemoveUserByUserName_InputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveUserByUserName" />
+  </wsdl:message>
+  <wsdl:message name="IPrService_RemoveUserByUserName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RemoveUserByUserNameResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IPrService">
+    <wsdl:operation name="GetGuestsByEventIdAndGuestName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/GetGuestsByEventIdAndGuestName" message="tns:IPrService_GetGuestsByEventIdAndGuestName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/GetGuestsByEventIdAndGuestNameResponse" message="tns:IPrService_GetGuestsByEventIdAndGuestName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EncryptPass">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/EncryptPass" message="tns:IPrService_EncryptPass_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/EncryptPassResponse" message="tns:IPrService_EncryptPass_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSpecificGuest">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/GetSpecificGuest" message="tns:IPrService_GetSpecificGuest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/GetSpecificGuestResponse" message="tns:IPrService_GetSpecificGuest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ChangeGuestStatus">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/ChangeGuestStatus" message="tns:IPrService_ChangeGuestStatus_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/ChangeGuestStatusResponse" message="tns:IPrService_ChangeGuestStatus_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEventByID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/GetEventByID" message="tns:IPrService_GetEventByID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/GetEventByIDResponse" message="tns:IPrService_GetEventByID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEvent">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/GetEvent" message="tns:IPrService_GetEvent_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/GetEventResponse" message="tns:IPrService_GetEvent_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveEvent">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/RemoveEvent" message="tns:IPrService_RemoveEvent_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/RemoveEventResponse" message="tns:IPrService_RemoveEvent_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEvents">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/GetEvents" message="tns:IPrService_GetEvents_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/GetEventsResponse" message="tns:IPrService_GetEvents_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEventsByEventName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/GetEventsByEventName" message="tns:IPrService_GetEventsByEventName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/GetEventsByEventNameResponse" message="tns:IPrService_GetEventsByEventName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEventsByEventDate">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/GetEventsByEventDate" message="tns:IPrService_GetEventsByEventDate_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/GetEventsByEventDateResponse" message="tns:IPrService_GetEventsByEventDate_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateEvent">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/CreateEvent" message="tns:IPrService_CreateEvent_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/CreateEventResponse" message="tns:IPrService_CreateEvent_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddGuest">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/AddGuest" message="tns:IPrService_AddGuest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/AddGuestResponse" message="tns:IPrService_AddGuest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveGuest">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/RemoveGuest" message="tns:IPrService_RemoveGuest_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/RemoveGuestResponse" message="tns:IPrService_RemoveGuest_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUsers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/GetUsers" message="tns:IPrService_GetUsers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/GetUsersResponse" message="tns:IPrService_GetUsers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetUserById">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/GetUserById" message="tns:IPrService_GetUserById_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/GetUserByIdResponse" message="tns:IPrService_GetUserById_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddUser">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/AddUser" message="tns:IPrService_AddUser_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/AddUserResponse" message="tns:IPrService_AddUser_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RemoveUserByUserName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPrService/RemoveUserByUserName" message="tns:IPrService_RemoveUserByUserName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPrService/RemoveUserByUserNameResponse" message="tns:IPrService_RemoveUserByUserName_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IPrService" type="tns:IPrService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetGuestsByEventIdAndGuestName">
+      <soap:operation soapAction="http://tempuri.org/IPrService/GetGuestsByEventIdAndGuestName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EncryptPass">
+      <soap:operation soapAction="http://tempuri.org/IPrService/EncryptPass" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSpecificGuest">
+      <soap:operation soapAction="http://tempuri.org/IPrService/GetSpecificGuest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ChangeGuestStatus">
+      <soap:operation soapAction="http://tempuri.org/IPrService/ChangeGuestStatus" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEventByID">
+      <soap:operation soapAction="http://tempuri.org/IPrService/GetEventByID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEvent">
+      <soap:operation soapAction="http://tempuri.org/IPrService/GetEvent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveEvent">
+      <soap:operation soapAction="http://tempuri.org/IPrService/RemoveEvent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEvents">
+      <soap:operation soapAction="http://tempuri.org/IPrService/GetEvents" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEventsByEventName">
+      <soap:operation soapAction="http://tempuri.org/IPrService/GetEventsByEventName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEventsByEventDate">
+      <soap:operation soapAction="http://tempuri.org/IPrService/GetEventsByEventDate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateEvent">
+      <soap:operation soapAction="http://tempuri.org/IPrService/CreateEvent" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddGuest">
+      <soap:operation soapAction="http://tempuri.org/IPrService/AddGuest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveGuest">
+      <soap:operation soapAction="http://tempuri.org/IPrService/RemoveGuest" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUsers">
+      <soap:operation soapAction="http://tempuri.org/IPrService/GetUsers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetUserById">
+      <soap:operation soapAction="http://tempuri.org/IPrService/GetUserById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddUser">
+      <soap:operation soapAction="http://tempuri.org/IPrService/AddUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RemoveUserByUserName">
+      <soap:operation soapAction="http://tempuri.org/IPrService/RemoveUserByUserName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PrService">
+    <wsdl:port name="BasicHttpBinding_IPrService" binding="tns:BasicHttpBinding_IPrService">
+      <soap:address location="http://prservice.cloudapp.net/PrService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

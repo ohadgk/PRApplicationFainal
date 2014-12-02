@@ -1,0 +1,58 @@
+﻿<UserControl
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:c="using:PRApplication.Hosting.AzureServiceReference.Converters"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PRApplication.Hosting.AzureServiceReference.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Messeges="using:PrApplication.Clients.Windows8.Core.Messeges"
+    x:Class="PRApplication.Hosting.AzureServiceReference.Controls.GuestDetailscontrol"
+    mc:Ignorable="d"
+    d:DesignHeight="300"
+    d:DesignWidth="700">
+
+    <UserControl.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Height" Value="30"/>
+        </Style>
+        
+        <c:ByteArrayToImageConverter x:Key="ByteArrayToImageConverter"/>
+    </UserControl.Resources>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="600*"/>
+            <ColumnDefinition Width="350*"/>
+            <ColumnDefinition Width="600*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0">
+            <TextBlock  Text="First Name:"/>
+            <TextBlock Text="Last Name:"/>
+            <TextBlock Text="Atended?"/>
+            <TextBlock Text="Companions:"/>
+            <TextBlock Text="Event Name:"/>
+            <TextBlock Text="Event Date:"/>
+            <TextBlock Text="QR Code:"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" >
+            <TextBlock Text="{Binding SelectedGuest.FirstName}"/>
+            <TextBlock Text="{Binding SelectedGuest.LastName}"/>
+            <TextBlock Text="{Binding SelectedGuest.Atended}"/>
+            <TextBlock Text="{Binding SelectedGuest.Companions}"/>
+            <TextBlock Text="{Binding SelectedGuest.Event.Name}"/>
+            <TextBlock Text="{Binding SelectedGuest.Event.StartDate}"/>
+            <TextBlock Text="{Binding SelectedGuest.QRCode}"/>
+
+        </StackPanel>
+        
+        <TextBlock Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Top" Text="Image:"/>
+
+        <Image Grid.Column="2" Source="{Binding SelectedGuest.Image, Converter={StaticResource ByteArrayToImageConverter}}" Width="150" Height="200"/>
+        
+    </Grid>
+    
+</UserControl>

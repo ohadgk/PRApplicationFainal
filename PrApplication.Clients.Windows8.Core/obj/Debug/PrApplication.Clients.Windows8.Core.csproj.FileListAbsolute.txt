@@ -1,0 +1,57 @@
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication.Entities\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Tom\Desktop\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Tom\Desktop\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Tom\Desktop\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Tom\Desktop\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Tom\Desktop\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Tom\Desktop\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\Users\Tom\Desktop\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Tom\Desktop\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Tom\Desktop\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\USER\Downloads\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\USER\Downloads\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\USER\Downloads\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\USER\Downloads\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\USER\Downloads\PRApplication\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\Users\USER\Downloads\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\USER\Downloads\PRApplication\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Tom\Desktop\PRApplicationShalev\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplicationShalev\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Tom\Desktop\PRApplicationShalev\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\bin\Debug\PrApplication.Clients.Windows8.Core.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PrApplication.Clients.Windows8.Core\obj\Debug\PrApplication.Clients.Windows8.Core.pdb

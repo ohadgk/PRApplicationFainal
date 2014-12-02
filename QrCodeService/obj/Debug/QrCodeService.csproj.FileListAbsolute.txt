@@ -1,0 +1,13 @@
+C:\Users\USER\Downloads\PRApplication\QrCodeService\bin\QrCodeService.dll.config
+C:\Users\USER\Downloads\PRApplication\QrCodeService\bin\QrCodeService.dll
+C:\Users\USER\Downloads\PRApplication\QrCodeService\bin\QrCodeService.pdb
+C:\Users\USER\Downloads\PRApplication\QrCodeService\bin\OnBarcode.Barcode.BarcodeScanner.dll
+C:\Users\USER\Downloads\PRApplication\QrCodeService\obj\Debug\QrCodeService.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\PRApplication\QrCodeService\obj\Debug\QrCodeService.dll
+C:\Users\USER\Downloads\PRApplication\QrCodeService\obj\Debug\QrCodeService.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\QrCodeService\bin\QrCodeService.dll.config
+C:\Users\Tom\Desktop\PRApplicationFainal\QrCodeService\bin\QrCodeService.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\QrCodeService\bin\QrCodeService.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\QrCodeService\obj\Debug\QrCodeService.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplicationFainal\QrCodeService\obj\Debug\QrCodeService.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\QrCodeService\obj\Debug\QrCodeService.pdb

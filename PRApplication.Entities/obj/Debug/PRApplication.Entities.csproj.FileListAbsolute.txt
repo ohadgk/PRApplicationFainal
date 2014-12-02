@@ -1,0 +1,34 @@
+D:\SELA\WCF Project\PRApplication.Entities\PRApplication.Entities\bin\Debug\PRApplication.Entities.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApplication.Entities\bin\Debug\PRApplication.Entities.pdb
+D:\SELA\WCF Project\PRApplication.Entities\PRApplication.Entities\obj\Debug\PRApplication.Entities.csprojResolveAssemblyReference.cache
+D:\SELA\WCF Project\PRApplication.Entities\PRApplication.Entities\obj\Debug\PRApplication.Entities.dll
+D:\SELA\WCF Project\PRApplication.Entities\PRApplication.Entities\obj\Debug\PRApplication.Entities.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Entities\bin\Debug\PRApplication.Entities.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Entities\bin\Debug\PRApplication.Entities.pdb
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.dll
+C:\Users\Ohad\Desktop\WCF Project\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Entities\bin\Debug\PRApplication.Entities.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Entities\bin\Debug\PRApplication.Entities.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.dll
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.pdb
+C:\Users\Ohad\Source\Workspaces\WCFProject\WCF Project\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Entities\bin\Debug\PRApplication.Entities.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Entities\bin\Debug\PRApplication.Entities.pdb
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.dll
+C:\Users\USER\Desktop\New folder\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.pdb
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Entities\bin\Debug\PRApplication.Entities.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Entities\bin\Debug\PRApplication.Entities.pdb
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.dll
+C:\Users\Tom\Desktop\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.pdb
+C:\Users\USER\Downloads\PRApplication\PRApplication.Entities\bin\Debug\PRApplication.Entities.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Entities\bin\Debug\PRApplication.Entities.pdb
+C:\Users\USER\Downloads\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.dll
+C:\Users\USER\Downloads\PRApplication\PRApplication.Entities\obj\Debug\PRApplication.Entities.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Entities\bin\Debug\PRApplication.Entities.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Entities\bin\Debug\PRApplication.Entities.pdb
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Entities\obj\Debug\PRApplication.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Entities\obj\Debug\PRApplication.Entities.dll
+C:\Users\Tom\Desktop\PRApplicationFainal\PRApplication.Entities\obj\Debug\PRApplication.Entities.pdb

@@ -1,0 +1,26 @@
+Assets\Background.png
+Assets\BackgroundLoginProt.jpg
+Assets\EventBG.png
+Assets\EventTrans.png
+Assets\GuestBG.png
+Assets\GuestTrans.png
+Assets\image1.jpg
+Assets\LoginBot.png
+Assets\LoginTop.png
+Assets\Logo.scale-100.png
+Assets\SmallLogo.scale-100.png
+Assets\SplashScreen.scale-100.png
+Assets\StoreLogo.scale-100.png
+App.xbf
+Controls\AddEventControl.xbf
+Controls\AddGuestControl.xbf
+Controls\AddUserControl.xbf
+Controls\GuestDetailscontrol.xbf
+Controls\RemoveUserControl.xbf
+PRApplication.Hosting.AzureServiceReference.xr.xml
+Views\EventsView.xbf
+Views\GuestDetailsView.xbf
+Views\HostView.xbf
+Views\LoginView.xbf
+Views\WelcomView.xbf
+ToDo-MvvmCross\_ Windows Store UI.txt

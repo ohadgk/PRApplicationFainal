@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="WCF_Azure_Service" version="2.5.6496.10" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <Runtime>
+    <EntryPoint>
+      <NetFxEntryPoint assemblyName="WCF_Azure_Service.dll" targetFrameworkVersion="v4.0" />
+    </EntryPoint>
+  </Runtime>
+  <Properties>
+    <Property name="TargetFrameworkVersion" value="v4.5" />
+    <Property name="RoleType" value="Web" />
+    <Property name="RoleName" value="WCF_Azure_Service" />
+    <Property name="ProjectName" value="WCF_Azure_Service" />
+    <Property name="Configuration" value="Debug" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="SetConfiguration" value="Configuration=Debug" />
+    <Property name="SetPlatform" value="Platform=AnyCPU" />
+    <Property name="RoleTargetFramework" value="v4.5" />
+    <Property name="OutputDir" value="C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_HostedService\obj\Debug\WCF_Azure_Service\" />
+    <Property name="EntryPoint" value="WCF_Azure_Service.dll" />
+    <Property name="SourceDir" value="C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_Service\" />
+    <Property name="SitePhysicalPath" value="C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_HostedService\obj\Debug\WCF_Azure_Service\" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+  <Sites>
+    <Site name="Web" physicalDirectory="C:\Users\Tom\Desktop\PRApplicationFainal\WCF_Azure_HostedService\obj\Debug\WCF_Azure_Service\">
+      <Bindings>
+        <Binding name="Endpoint1" endpointName="Endpoint1" />
+      </Bindings>
+    </Site>
+  </Sites>
+</RoleModel>

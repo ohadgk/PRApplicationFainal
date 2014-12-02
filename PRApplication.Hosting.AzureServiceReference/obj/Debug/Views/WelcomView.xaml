@@ -1,0 +1,76 @@
+﻿<views:MvxWindowsPage
+    Name="WelcomePage"
+    xmlns:views="using:Cirrious.MvvmCross.WindowsCommon.Views"
+    x:Class="PRApplication.Hosting.AzureServiceReference.Views.WelcomView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PRApplication.Hosting.AzureServiceReference.Views"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:c="using:PRApplication.Hosting.AzureServiceReference.Converters"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <c:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+        <Style TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Black"/>
+        </Style>
+    </Page.Resources>
+    <Page.BottomAppBar>
+        <AppBar>
+            <AppBar.Background>
+                <ImageBrush ImageSource="/Assets/LoginBot.png" Stretch="Uniform"/>
+            </AppBar.Background>
+
+            <StackPanel Orientation="Horizontal">
+                <AppBarButton Icon="Help" Label="About" Command="{Binding GoToAboutCommand}"/>
+                <AppBarButton Icon="Refresh" Label="Refresh" Command="{Binding RefreshCommand}"/>
+            </StackPanel>
+        </AppBar>
+    </Page.BottomAppBar>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Assets/BackgroundLoginProt.jpg"/>
+        </Grid.Background>
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+
+        </Grid.ColumnDefinitions>
+
+        <ListBox x:Name="eventsListBox" Grid.Row="1" Grid.Column="1" ItemsSource="{Binding WelcomeEvents}">
+
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Button Content="{Binding}" Foreground="Black" Background="Transparent" FontSize="25" Width="300" BorderBrush="Black"
+                            Command="{Binding ElementName=WelcomePage, Path=DataContext.EventChooseCommand }" 
+                            CommandParameter="{Binding Id}">
+
+                    </Button>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+<TextBlock Grid.Row="0" Grid.Column="1" TextWrapping="Wrap" Text="Welcome" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="100" Foreground="Black" Margin="50"/>
+<TextBlock Grid.Row="1"  TextWrapping="Wrap" Text="Online Events:" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="30"/>
+        <TextBlock Grid.Row="1" Grid.Column="1" Text="No Events Today, can login as Admin only" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" Foreground="#FF5B2EC5"
+                   Visibility="{Binding NoEventsMassegeOn, Converter={StaticResource BooleanToVisibilityConverter}}"/>
+        <Button Content="Login As Admin" HorizontalAlignment="Left" Grid.Column="1" VerticalAlignment="Bottom" Grid.Row="1" Margin="80"  Height="100" Width="450" FontSize="30"
+                Command="{Binding LoginAsAdminCommand}" Foreground="Black" BorderBrush="Black"/>
+        <ProgressRing Visibility="{Binding IsBusyLoadingEvents , Converter={StaticResource BooleanToVisibilityConverter}}" 
+                          IsActive="True" Grid.Column="1" Grid.Row="1" Height="194" Width="235" Margin="100"/>
+
+
+
+    </Grid>
+
+
+</views:MvxWindowsPage>
+
